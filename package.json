@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio pour présentation de mes connaissances actuelles",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "SASS": "sass --watch ./public/styles/main.scss:./public/styles/css/style.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoEmanuelLC/portfolio.git"
+  },
+  "author": "Hugo Clavinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoEmanuelLC/portfolio/issues"
+  },
+  "homepage": "https://github.com/HugoEmanuelLC/portfolio#readme"
+}
