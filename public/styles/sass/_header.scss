@@ -1,0 +1,35 @@
+header{
+    border: 2px solid red;
+}
+.presentation_profil{
+    border-radius: 175px 0 0 175px;
+    border: solid 5px darkred;
+    background-color: darkred;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+}
+.presentation_profil div:first-child{
+    height: 100%;
+    background-color: white;
+    border-radius: 50%;
+    height: 240px;
+    width: 240px;
+    margin-left: 5px;
+}
+.presentation_profil div:last-child{
+    color: white;
+    margin: auto;
+    font-size: 200%;
+}
+#photo_profil{
+    border-radius: 50%;
+    border: 10px solid blue;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+#photo_profil img{
+    width: 100%;
+}
