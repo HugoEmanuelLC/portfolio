@@ -10,7 +10,7 @@
 <body>
     <div class="page">
 
-        <header>
+        <header style="background-image: url('../public/images/aryan-dhiman-iGLLtLINSkw-unsplash.jpg');">
             <div class="presentation_profil">
                 <div>
                     <div id="photo_profil">
@@ -20,7 +20,7 @@
                 
                 <div>
                     <h1>Developpeur</h1>
-                    <h4>web apps junior</h4>
+                    <h5>web apps junior</h5>
                 </div>
             </div>
         </header>
