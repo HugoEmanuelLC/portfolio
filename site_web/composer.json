@@ -1,0 +1,17 @@
+{
+    "name": "hugoclavinas/portfolio",
+    "description": "Presentation de mon portfolio",
+    "autoload": {
+        "psr-4": {
+            "Hugoclavinas\\Portfolio\\": "src/",
+            "Router\\": "routes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hugo Clavinas",
+            "email": "helc85.info@gmail.com"
+        }
+    ],
+    "require": {}
+}
